@@ -169,6 +169,7 @@ to change to the selected color.
 To achieve our goals, the `Matrix` component needs to have the following:
 
 - A way for `Matrix` to keep track of the **selected color** (think _state!_)
+
 - A method that takes in a single argument of a hexadecimal color string (i.e. '#fff')
   and sets the **selected color** to that
 
